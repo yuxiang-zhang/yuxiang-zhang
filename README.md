@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yu Xiang. Been in Canada🍁 half my life and only recently started snowboarding🏂. Done🎓 with undergraduate studies. Looking forward to my next chapter in September 2022 @ <img alt="" class="right" height="16px" src="https://vancouver.ca/images/cov/feature/cov-emblem-feature.jpg" width="34px">! 
+I am Yu Xiang. Been in Canada🍁 half my life and only recently started snowboarding🏂. Done🎓 with undergraduate studies. Looking forward to my next chapter in September 2022 📍<img alt="van-emblem" height="16px" src="https://vancouver.ca/images/cov/feature/cov-emblem-feature.jpg" width="34px">! 
 
 - 🔭 I’m currently working on a Clinic Management System written with NodeJS, ReactJS and TypeScript. 
 - 🌱 I’m currently learning [Go](https://go.dev/), Deep Learning and System Design. 
