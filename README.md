@@ -1,5 +1,5 @@
 ### 你好，世界 🌐
-I am Yu Xiang, he who remained in Montreal ⚜ for 16 years, and who does stuffs at Amazon EKS [<img src="https://d1.awsstatic.com/logos/Services/Containers/new_product_eks.ad8292f87de4d00212a35991a31fe1392db85a9e.png" alt="eks" width="16px" />](https://aws.amazon.com/eks/). 
+I am Yu Xiang, working on AWS Elastic Beanstalk [<img src="https://d1.awsstatic.com/Compute/AWS-Elastic-Beanstalk_Icon_32_Squid.c5c9b2422fda2a2766ba19ebadbd411d269d9bba.png" alt="beanstalk" width="16px" />](https://aws.amazon.com/elasticbeanstalk/). 
 
 🖐 Hit me up at [<img src="https://store.steampowered.com/favicon.ico" alt="steam" width="16px" />](https://s.team/p/mbw-dgmd) / [<img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="linkedin" width="16px" />](https://www.linkedin.com/in/yuxiang-zhang) / [📩](mailto:yxz.get@gmail.com)
 
